@@ -23,20 +23,21 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LIUZHIYON&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIUZHIYON&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/LIUZHIYON?style=for-the-badge&logo=github&label=Followers&color=blueviolet" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/LIUZHIYON?style=for-the-badge&logo=github&label=Repos&color=blueviolet" alt="Public Repos" />
+  <img src="https://img.shields.io/github/stars/LIUZHIYON?style=for-the-badge&logo=github&label=Stars&color=blueviolet" alt="Total Stars" />
 </p>
 
 ## 🚀 精选项目
 
-| 项目 | 说明 |
-|------|------|
-| [RKCamRecord3](https://github.com/LIUZHIYON/RKCamRecord3) | RK3576 相机录制服务：IMX415 + GStreamer + 硬件编码 + Flask Web UI |
-| [OpenCV-Low-Light-Enhancement](https://github.com/LIUZHIYON/OpenCV-Low-Light-Enhancement) | 低光照图像增强：直方图均衡 / CLAHE / 伽马校正 / Retinex 等 |
-| [NightLift-](https://github.com/LIUZHIYON/NightLift-) | 一键低光照图像 & 视频增强，自动分析亮度选最优方法 |
-| [image-segmentation-algorithm-analysis](https://github.com/LIUZHIYON/image-segmentation-algorithm-analysis) | 图像分割算法分析 |
-| [Smart_Body_Worn_Camera](https://github.com/LIUZHIYON/Smart_Body_Worn_Camera) | 智能穿戴相机 |
-| [ros-humble-nav2-bringup](https://github.com/LIUZHIYON/ros-humble-nav2-bringup) | Nav2 官方入门指南复现 |
+| 项目 | 说明 | 主要语言 |
+|------|------|---------|
+| [RKCamRecord3](https://github.com/LIUZHIYON/RKCamRecord3) | RK3576 相机录制服务：IMX415 + GStreamer + 硬件编码 + Flask Web UI | ![lang](https://img.shields.io/github/languages/top/LIUZHIYON/RKCamRecord3) |
+| [OpenCV-Low-Light-Enhancement](https://github.com/LIUZHIYON/OpenCV-Low-Light-Enhancement) | 低光照图像增强：直方图均衡 / CLAHE / 伽马校正 / Retinex 等 | ![lang](https://img.shields.io/github/languages/top/LIUZHIYON/OpenCV-Low-Light-Enhancement) |
+| [NightLift-](https://github.com/LIUZHIYON/NightLift-) | 一键低光照图像 & 视频增强，自动分析亮度选最优方法 | ![lang](https://img.shields.io/github/languages/top/LIUZHIYON/NightLift-) |
+| [image-segmentation-algorithm-analysis](https://github.com/LIUZHIYON/image-segmentation-algorithm-analysis) | 图像分割算法分析 | ![lang](https://img.shields.io/github/languages/top/LIUZHIYON/image-segmentation-algorithm-analysis) |
+| [Smart_Body_Worn_Camera](https://github.com/LIUZHIYON/Smart_Body_Worn_Camera) | 智能穿戴相机 | ![lang](https://img.shields.io/github/languages/top/LIUZHIYON/Smart_Body_Worn_Camera) |
+| [ros-humble-nav2-bringup](https://github.com/LIUZHIYON/ros-humble-nav2-bringup) | Nav2 官方入门指南复现 | ![lang](https://img.shields.io/github/languages/top/LIUZHIYON/ros-humble-nav2-bringup) |
 
 ## 📫 联系我
 
