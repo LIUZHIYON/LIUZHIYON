@@ -43,31 +43,24 @@
   <img src="https://img.shields.io/github/stars/LIUZHIYON?style=for-the-badge&logo=github&label=Stars&color=blueviolet" alt="Total Stars" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LIUZHIYON&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=4B5563&bg_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIUZHIYON&layout=compact&hide_border=true&title_color=7C3AED&text_color=4B5563&bg_color=ffffff" alt="Top Languages" />
-</p>
-
 ## 🚀 精选项目
 
 ### 🤖 ROS2 与机器人
 
-<p align="center">
-  <a href="https://github.com/LIUZHIYON/robot_reminder_sys"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIUZHIYON&repo=robot_reminder_sys&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=4B5563&bg_color=ffffff" width="45%" alt="robot_reminder_sys" /></a>
-  <a href="https://github.com/LIUZHIYON/ros-humble-nav2-bringup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIUZHIYON&repo=ros-humble-nav2-bringup&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=4B5563&bg_color=ffffff" width="45%" alt="ros-humble-nav2-bringup" /></a>
-  <br/>
-  <a href="https://github.com/LIUZHIYON/ubt-ros2-learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIUZHIYON&repo=ubt-ros2-learning&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=4B5563&bg_color=ffffff" width="45%" alt="ubt-ros2-learning" /></a>
-</p>
+| 项目 | 说明 | 语言 |
+| --- | --- | --- |
+| [**robot_reminder_sys**](https://github.com/LIUZHIYON/robot_reminder_sys) | 基于 Python 行为树的提醒系统 ROS2 包 · 3 节点 | ![Python](https://img.shields.io/github/languages/top/LIUZHIYON/robot_reminder_sys) |
+| [**ros-humble-nav2-bringup**](https://github.com/LIUZHIYON/ros-humble-nav2-bringup) | Nav2 官方入门指南复现 | ![Python](https://img.shields.io/github/languages/top/LIUZHIYON/ros-humble-nav2-bringup) |
+| [**ubt-ros2-learning**](https://github.com/LIUZHIYON/ubt-ros2-learning) | UBT 机器人 ROS2 学习笔记与示例 | ![Python](https://img.shields.io/github/languages/top/LIUZHIYON/ubt-ros2-learning) |
 
 ### 🖼️ 图像算法与视觉
 
-<p align="center">
-  <a href="https://github.com/LIUZHIYON/NightLift-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIUZHIYON&repo=NightLift-&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=4B5563&bg_color=ffffff" width="45%" alt="NightLift-" /></a>
-  <a href="https://github.com/LIUZHIYON/OpenCV-Low-Light-Enhancement"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIUZHIYON&repo=OpenCV-Low-Light-Enhancement&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=4B5563&bg_color=ffffff" width="45%" alt="OpenCV-Low-Light-Enhancement" /></a>
-  <br/>
-  <a href="https://github.com/LIUZHIYON/image-segmentation-algorithm-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIUZHIYON&repo=image-segmentation-algorithm-analysis&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=4B5563&bg_color=ffffff" width="45%" alt="image-segmentation-algorithm-analysis" /></a>
-  <a href="https://github.com/LIUZHIYON/RKCamRecord3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIUZHIYON&repo=RKCamRecord3&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=4B5563&bg_color=ffffff" width="45%" alt="RKCamRecord3" /></a>
-</p>
+| 项目 | 说明 | 语言 |
+| --- | --- | --- |
+| [**NightLift-**](https://github.com/LIUZHIYON/NightLift-) | 一键低光照图像与视频增强：自动分析亮度，智能选择最优算法 | ![Python](https://img.shields.io/github/languages/top/LIUZHIYON/NightLift-) |
+| [**OpenCV-Low-Light-Enhancement**](https://github.com/LIUZHIYON/OpenCV-Low-Light-Enhancement) | 低光照图像增强：直方图均衡 / CLAHE / 伽马校正 / Retinex | ![Python](https://img.shields.io/github/languages/top/LIUZHIYON/OpenCV-Low-Light-Enhancement) |
+| [**image-segmentation-algorithm-analysis**](https://github.com/LIUZHIYON/image-segmentation-algorithm-analysis) | 图像分割算法分析：传统算法与深度学习方法对比 | ![Python](https://img.shields.io/github/languages/top/LIUZHIYON/image-segmentation-algorithm-analysis) |
+| [**RKCamRecord3**](https://github.com/LIUZHIYON/RKCamRecord3) | RK3576 相机录制服务：IMX415 + GStreamer + 硬件编码 + Flask Web UI | ![Python](https://img.shields.io/github/languages/top/LIUZHIYON/RKCamRecord3) |
 
 > 更多仓库见 [我的主页 →](https://github.com/LIUZHIYON?tab=repositories)
 
