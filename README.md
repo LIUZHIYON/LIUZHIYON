@@ -68,6 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/LIUZHIYON"><img src="https://img.shields.io/badge/GitHub-LIUZHIYON-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://liuzhiyon.github.io/personal-blog/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Blog-7C3AED?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
 </p>
 
 <p align="center">欢迎交流嵌入式视觉、ROS2 与图像算法相关技术 🌱</p>
